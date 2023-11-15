@@ -11,3 +11,5 @@ Um repositório que contém projetos desenvolvidos a partir da plataforma Origam
 [Bikcraft](https://deivisondelmiro.github.io/origamid-projetos/bikcraft/index.html)
 
 [Flexblog](https://deivisondelmiro.github.io/origamid-projetos/flexblog/index.html)
+
+[Animais Fantásticos](https://deivisondelmiro.github.io/origamid-projetos/animais-fantasticos/index.html)
