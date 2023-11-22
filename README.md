@@ -13,3 +13,5 @@ Um repositório que contém projetos desenvolvidos a partir da plataforma Origam
 [Flexblog](https://deivisondelmiro.github.io/origamid-projetos/flexblog/index.html)
 
 [Animais Fantásticos](https://deivisondelmiro.github.io/origamid-projetos/animais-fantasticos/index.html)
+
+[Slide Animais](https://deivisondelmiro.github.io/origamid-projetos/slide/index.html)
