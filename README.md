@@ -15,3 +15,5 @@ Um repositório que contém projetos desenvolvidos a partir da plataforma Origam
 [Animais Fantásticos](https://deivisondelmiro.github.io/origamid-projetos/animais-fantasticos/index.html)
 
 [Slide Animais](https://deivisondelmiro.github.io/origamid-projetos/slide/index.html)
+
+[Le Scone](https://deivisondelmiro.github.io/origamid-projetos/lescone/index.html)
